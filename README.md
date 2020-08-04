@@ -3,4 +3,4 @@
 ![](orig-images/camera.png)
 ![](orig-images/1ft.png)
 ![](orig-images/2ft.png)
-![](orig-images/3ft.png)
+
